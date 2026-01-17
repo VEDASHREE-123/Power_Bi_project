@@ -39,7 +39,8 @@ This Power BI project analyzes real-world Uber trip data to uncover trends in bo
 ## 🖼️ Dashboard Preview
 *(You can add a screenshot of your dashboard here)*
 
-![Dashboard Screenshot](screenshot_link_here.png)
+![Dashboard Scree<img width="1908" height="964" alt="Screenshot 2026-01-17 113654" src="https://github.com/user-attachments/assets/0164c731-cc79-4e01-a337-7734ecc6ac3a" />
+nshot]()
 
 ## 🚀 How to Use
 1. Download `Uber.pbix` and open it in **Power BI Desktop**

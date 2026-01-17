@@ -48,10 +48,6 @@ This Power BI project analyzes real-world Uber trip data to uncover trends in bo
 - Gained experience in designing **business-ready dashboards**
 - Improved ability to **translate data into actionable insights**
 
-## 📬 Connect & Feedback
-I’m always open to feedback, suggestions, and collaborations! Feel free to reach out via [LinkedIn](#) or open an issue in this repository.
-
----
 
 ### 📄 License
 This project is for educational and portfolio purposes. Data is anonymized and simulated for analysis.
